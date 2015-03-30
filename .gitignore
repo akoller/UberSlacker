@@ -1,0 +1,8 @@
+*.pyc
+settings.py
+/.vagrant
+acceptance_config.yml
+boxes/*
+/website/docs/.vagrant
+/website/www/.vagrant
+/vagrant-spec.config.rb
